@@ -1,0 +1,21 @@
+Initial state :
+3 1 
+0 2 
+
+Depth is: 3
+Total call: 4
+Total node Create: 5
+Elapsed Time : 0.0014214515686035156
+
+move :up
+0 1 
+3 2 
+
+move :right
+1 0 
+3 2 
+
+move :down
+1 2 
+3 0 
+
